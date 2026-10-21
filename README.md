@@ -1,7 +1,7 @@
 # Can AI Work the Night Shift?
 ### Testing AI models on real security-log triage, and validating every claim against raw telemetry
 
-**Author:** Harmony Debowski · **Date:** October 2026
+**Author:** Harms "CyberKittyx0" · **Date:** October 2026
 
 ---
 
