@@ -7,7 +7,7 @@
 
 ## Summary
 
-SOC teams are adopting AI to summarize logs and draft incident timelines. The job then shifts to **checking the AI's work**. This project measures how well three widely used AI assistants (Claude, ChatGPT, Gemini) triage real attack telemetry, and how reliably their output holds up when every specific claim is verified against the raw logs.
+This project measures how well three widely used AI assistants (Claude, ChatGPT, Gemini) triage real attack telemetry, and how reliably their output holds up when every specific claim is verified against the raw logs.
 
 **14 triage runs · 4 attack datasets · 3 models · 80+ claims validated** using keyword search and **Databricks SQL**.
 
